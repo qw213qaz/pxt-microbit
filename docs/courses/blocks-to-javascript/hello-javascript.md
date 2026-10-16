@@ -32,7 +32,7 @@ basic.forever(function () {
 
 ## Step 2 - Converting blocks to JavaScript
 
-Click on the **{} JavaScript** button on the top of the editor to **convert your blocks into JavaScript**.
+Click on the **JS JavaScript Button** button on the top of the editor to **convert your blocks into JavaScript**.
 
 ![Toggle to JavaScript](/static/mb/blocks2js/toggle.gif)
 
